@@ -16,12 +16,15 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 <img src="https://user-images.githubusercontent.com/36110304/115278298-ea9da900-a162-11eb-896d-a68938af4d91.png" width="50" height="40"/>
 <img src="https://user-images.githubusercontent.com/36110304/115278787-80d1cf00-a163-11eb-9fd1-486d523d1bb7.png" alt="MongoDB" width="90" height="40"/>
   
+<hr>
 <details>
 <summary>📊 Github Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aparna0522&show_icons=true&theme=dark" alt="Aparna Naik | Stats" />
 
 </details>
+<hr>
+<h4>Visitors Count:</h4>
 
 ![Visitor Count](https://profile-counter.glitch.me/{aparna0522}/count.svg)
 
