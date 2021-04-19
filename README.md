@@ -2,6 +2,15 @@
 
 I am a backend developer with hands-on knowledge of some cutting-edge technologies like Microservices and Docker. My tech toolbox, i.e. the languages that I use on day-to-day basis are Nodejs, Ruby on Rails, Python. However, my primary language is C++. I have created data-science projects, done backend + frontend development of various extensive applications and developed some computer games. I have used databases like MySQL, Postgres, MongoDB, SQLite. 
 
+<h4>Reach out to me at:</h4>
+
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[LinkedIn]: https://www.linkedin.com/in/aparnanaik/ 
+[Github]: https://www.github.com/aparna0522
+
+
 ### My Technology Toolbox
 
 <p align="left">
@@ -28,7 +37,5 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 
 ![Visitor Count](https://profile-counter.glitch.me/{aparna0522}/count.svg)
 
-<h3>Reach out to me at: </h3>
 
-[LinkedIn](https://www.linkedin.com/in/aparnanaik/) |
-[Github](https://www.github.com/aparna0522)
+
