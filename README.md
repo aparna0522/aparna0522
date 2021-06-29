@@ -27,15 +27,3 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
   
 <hr>
 <details>
-<summary>📊 Github Stats</summary>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aparna0522&show_icons=true&theme=dark" alt="Aparna Naik | Stats" />
-
-</details>
-<hr>
-<h4>Visitors Count:</h4>
-
-![Visitor Count](https://profile-counter.glitch.me/{aparna0522}/count.svg)
-
-
-
