@@ -8,6 +8,7 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 [<img height="30" src="https://img.shields.io/badge/github-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
 [LinkedIn]: https://www.linkedin.com/in/aparnanaik/ 
+
 [Github]: https://www.github.com/aparna0522
 
 
