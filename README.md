@@ -26,4 +26,4 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 <img src="https://user-images.githubusercontent.com/36110304/115278787-80d1cf00-a163-11eb-9fd1-486d523d1bb7.png" alt="MongoDB" width="90" height="40"/>
   
 <hr>
-<details>
+
