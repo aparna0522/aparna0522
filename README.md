@@ -9,7 +9,7 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 
 [LinkedIn]: https://www.linkedin.com/in/aparnanaik/ 
 
-[Github]: https://www.github.com/aparna0522
+
 
 ### My Technology Toolbox
 
