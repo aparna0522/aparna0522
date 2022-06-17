@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aparna Naik
+### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="3px"> I am Aparna Naik
 
 I am a backend developer with hands-on knowledge of some cutting-edge technologies like Microservices and Docker. My tech toolbox, i.e. the languages that I use on day-to-day basis are Nodejs, Ruby on Rails, Python. However, my primary language is C++. I have created data-science projects, done backend + frontend development of various extensive applications and developed some computer games. I have used databases like MySQL, Postgres, MongoDB, SQLite. 
 
