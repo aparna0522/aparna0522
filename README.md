@@ -14,6 +14,7 @@ I am a backend developer with hands-on knowledge of some cutting-edge technologi
 
 <p align="left">
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
+<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-JqDYj2RNCBbuHFyEog3yGkA7Pzf2PX0kqJVOMmnKew&s" alt="Java" width="50" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
 <img src="https://user-images.githubusercontent.com/36110304/115270975-7ced7f00-a15a-11eb-8d04-3d8e10f7f91a.png" alt="NodeJs" width="60" height="40"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/97_Docker-512.png" alt="Docker" width="40" height="40"/>
