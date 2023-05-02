@@ -1,8 +1,10 @@
-### Hi, I am Aparna Naik
+### Hi! I am Aparna Naik [she/her],
 
-I am a backend developer with hands-on knowledge of some cutting-edge technologies like Microservices and Docker. My tech toolbox, i.e. the languages that I use on day-to-day basis are Nodejs, Ruby on Rails, Python. However, my primary language is C++. I have created data-science projects, done backend + frontend development of various extensive applications and developed some computer games. I have used databases like MySQL, Postgres, MongoDB, SQLite. 
+I am a backend developer with hands-on knowledge of building applications using Microservices architecture and containerising applications using Docker. My tech toolbox includes NodeJs, Ruby on Rails, Python, JavaScript. My go-to language is C++ :) 
+I have collaborated and worked in various teams as a fullstack developer too! I love building new applications and debugging most of the backend stuff. 
+Hit me up if you would like to discuss any project ideas or collaborate! 
 
-<h4>Reach out to me at:</h4>
+<h4>You can reach out to me at:</h4>
 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
 
